@@ -1,2 +1,5 @@
 Hetmani
 https://cocalc.com/projects/89cf58bf-9cff-49aa-9cb5-31fdc8cc2878/files/2017-06-21-120309.sagews
+ Program wypisuje warunki przy ustalonym N na to, by żadne dwa hetmany się nie atakawały. 
+ Zmienne są oczywiście binarne i tak np a7 to zmienna bedaca indykatorem tego, ze na polu a7 stoi hetman. 
+ Maksymalizujemy sume wszystkich zmiennych.
